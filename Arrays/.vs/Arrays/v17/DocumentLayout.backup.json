@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\andrey\\desenvolvimento\\estruturadadoscsharp\\arrays\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\andrey\\desenvolvimento\\estruturadadoscsharp\\arrays\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Q1.cs",
               "DocumentMoniker": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q1.cs",
               "RelativeDocumentMoniker": "Q1.cs",
@@ -47,18 +47,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:18:52.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Q3.cs",
-              "DocumentMoniker": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q3.cs",
-              "RelativeDocumentMoniker": "Q3.cs",
-              "ToolTip": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q3.cs",
-              "RelativeToolTip": "Q3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:19:36.692Z"
             },
             {
               "$type": "Document",
@@ -74,15 +62,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Q2.cs",
               "DocumentMoniker": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q2.cs",
               "RelativeDocumentMoniker": "Q2.cs",
               "ToolTip": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q2.cs",
               "RelativeToolTip": "Q2.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:19:24.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q3.cs",
+              "RelativeDocumentMoniker": "Q3.cs",
+              "ToolTip": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Q3.cs*",
+              "RelativeToolTip": "Q3.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:19:36.692Z",
               "EditorCaption": ""
             },
             {
@@ -93,9 +94,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Arrays\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:16:27.255Z"
+              "WhenOpened": "2025-01-15T19:16:27.255Z",
+              "EditorCaption": ""
             }
           ]
         }
