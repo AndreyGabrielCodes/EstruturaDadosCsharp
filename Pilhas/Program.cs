@@ -11,8 +11,9 @@ namespace Pilhas
         static void Main(string[] args)
         {
             //Q1
-            Console.WriteLine("Q1 - Calcule o valor de uma expressão pós-fixada usando uma pilha\n- Input: {3 4 + 2 * 5 -}");
-            Console.WriteLine("- Resposta: "); 
+            string expressao = "3 4+ 2 * 5 - 2 /";
+            Console.WriteLine("Q1 - Calcule o valor de uma expressão pós-fixada usando uma pilha\n- Input: {3 4+ 2 * 5 - 2 /}");
+            Console.WriteLine($"- Resposta: {Q1.SeparaCaracteres(expressao)}"); 
         }
     }
 }
