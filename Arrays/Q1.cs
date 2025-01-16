@@ -5,7 +5,7 @@ namespace Arrays
 {
     public class Q1
     {
-        public static int RetornaSegundoMenor(int[] array)
+        public static int SegundoMenor(int[] array)
         {
             int segundoMenor = 0;
             array = OrdenaArray(array);
