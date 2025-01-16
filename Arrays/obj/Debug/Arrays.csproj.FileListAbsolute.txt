@@ -5,3 +5,10 @@ C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.cs
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.exe
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\bin\Debug\Arrays.exe.config
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\bin\Debug\Arrays.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\bin\Debug\Arrays.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Arrays\obj\Debug\Arrays.pdb

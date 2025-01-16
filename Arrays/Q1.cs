@@ -8,11 +8,19 @@ namespace Arrays
         public static int RetornaSegundoMenor(int[] array)
         {
             int segundoMenor = 0;
-            OrdenaArray(array);
+            array = OrdenaArray(array);
+            foreach(int i in array)
+            {
+                if (i > array[0])
+                {
+                    segundoMenor = i;
+                    break;
+                }                    
+            }
             return segundoMenor;
         }
 
-        private static void OrdenaArray(int[] array)
+        private static int[] OrdenaArray(int[] array)
         {
             for (int i = 0; i < array.Length; i++)
             {
@@ -26,6 +34,7 @@ namespace Arrays
                     }
                 }
             }
+            return array;
         }
     }
 }
