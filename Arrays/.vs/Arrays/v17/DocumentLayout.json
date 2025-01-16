@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arrays\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arrays\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arrays\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,16 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Q4.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q4.cs",
-              "RelativeDocumentMoniker": "Q4.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q4.cs",
-              "RelativeToolTip": "Q4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q2.cs",
+              "RelativeDocumentMoniker": "Q2.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q2.cs",
+              "RelativeToolTip": "Q2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:19:54.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:19:24.131Z"
             },
             {
               "$type": "Document",
@@ -59,21 +58,19 @@
               "RelativeToolTip": "Q3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:19:36.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:19:36.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Q2.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q2.cs",
-              "RelativeDocumentMoniker": "Q2.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q2.cs",
-              "RelativeToolTip": "Q2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Q4.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q4.cs",
+              "RelativeDocumentMoniker": "Q4.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q4.cs",
+              "RelativeToolTip": "Q4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:19:24.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:19:54.212Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "Q1.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q1.cs",
               "RelativeToolTip": "Q1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:18:52.728Z",
               "EditorCaption": ""
@@ -96,7 +93,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:16:27.255Z",
               "EditorCaption": ""
