@@ -10,12 +10,12 @@ namespace Arrays
     {
         public static string ExibePrimeirosInteiros(int[] array)
         {
-            List<int> arrayExibicao = EncontraPrimeirosInteiros(array);
-            return "{" + arrayExibicao[0] + "," + arrayExibicao[1] + "," + arrayExibicao[2] + "," + arrayExibicao[3] + "," + arrayExibicao[4] + "}";
+            string arrayExibicao = string.Join(",", EncontraPrimeirosInteiros(array));
+            return arrayExibicao;
         }
         public static List<int> EncontraPrimeirosInteiros(int[] array)
         {
-            array = OrdenaArray(array);
+            array = OrdenaArray.Ordenar(array);
             List<int> primeirosInteiros = new List<int>();
             int limitador = 5;
             int contador = 0;
@@ -50,24 +50,6 @@ namespace Arrays
                 inteiroDuplicado = true;
             }
             return inteiroDuplicado;
-        }
-
-
-        private static int[] OrdenaArray(int[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                for (int j = i + 1; j < array.Length; j++)
-                {
-                    if (array[j] < array[i])
-                    {
-                        int temp = array[i];
-                        array[i] = array[j];
-                        array[j] = temp;
-                    }
-                }
-            }
-            return array;
         }
     }
 }

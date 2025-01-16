@@ -8,7 +8,7 @@ namespace Arrays
         public static int SegundoMenor(int[] array)
         {
             int segundoMenor = 0;
-            array = OrdenaArray(array);
+            array = OrdenaArray.Ordenar(array);
             foreach(int i in array)
             {
                 if (i > array[0])
@@ -18,23 +18,6 @@ namespace Arrays
                 }                    
             }
             return segundoMenor;
-        }
-
-        private static int[] OrdenaArray(int[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                for (int j = i + 1; j < array.Length; j++)
-                {
-                    if (array[j] < array[i])
-                    {
-                        int temp = array[i];
-                        array[i] = array[j];
-                        array[j] = temp;
-                    }
-                }
-            }
-            return array;
         }
     }
 }

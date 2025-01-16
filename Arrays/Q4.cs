@@ -8,5 +8,10 @@ namespace Arrays
 {
     public class Q4
     {
+        public static string Ordenar(int[] array)
+        {
+            string arrayExibicao = string.Join(",", OrdenaArray.Ordenar(array));
+            return "{" + arrayExibicao + "}";
+        }
     }
 }
