@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 
 namespace Arrays
 {
@@ -6,19 +7,25 @@ namespace Arrays
     {
         public static int RetornaSegundoMenor(int[] array)
         {
-            int indiceMenor = array[0];
-            int indiceSegundoMenor = 0;
-            foreach (int i in array)
+            int segundoMenor = 0;
+            OrdenaArray(array);
+            return segundoMenor;
+        }
+
+        private static void OrdenaArray(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
             {
-                foreach (int indiceSeguinte in array)
+                for (int j = i + 1; j < array.Length; j++)
                 {
-                    if (indiceSeguinte < indiceMenor)
+                    if (array[j] < array[i])
                     {
-                        indiceMenor = indiceSeguinte;
+                        int temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
                     }
                 }
             }
-            return indiceMenor;
         }
     }
 }

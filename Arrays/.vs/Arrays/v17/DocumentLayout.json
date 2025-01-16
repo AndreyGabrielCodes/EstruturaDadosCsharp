@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arrays\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57356377-88D3-4D47-A2AA-3E05C3F82812}|Arrays.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Q1.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q1.cs",
               "RelativeDocumentMoniker": "Q1.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Q1.cs",
               "RelativeToolTip": "Q1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:18:52.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
