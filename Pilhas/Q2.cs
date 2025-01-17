@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Pilhas
 {
@@ -6,31 +7,37 @@ namespace Pilhas
     {
         public static string ExibePilhaOrdenada(Stack<int> stack)
         {
-            string stackOrdenado = string.Join(" ", OrdenaPilha(stack));
-            return stackOrdenado;
+            string stackOrdenado = string.Join(",", OrdenaPilha(stack));
+            return "{" + stackOrdenado + "}";
         }
         
-        private static Stack<int> OrdenaPilha(Stack<int> stack)
+        private static int[] OrdenaPilha(Stack<int> stack)
         {
-            Stack<int> stackOrdenado = new Stack<int>();
-            for (int i = 0; i < stack.Count; i++)
+            int[] array = new int[stack.Count];
+            for (int i = 0; i < stack.Count-1; i++)
             {
-                int[] valores = new int[2];
-                valores[0] = stack.Pop();
-                valores[1] = stack.Pop();
+                array[i] = stack.Pop();
+            }
 
-                if (valores[0] < valores[1])
+            int [] stackOrdenado = OrdenaArray(array);
+            return stackOrdenado;
+        }
+
+        private static int[] OrdenaArray(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = i + 1; j < array.Length; j++)
                 {
-                    stackOrdenado.Push(valores[0]);
-                    stackOrdenado.Push(valores[1]);
-                }
-                else
-                {
-                    stackOrdenado.Push(valores[1]);
-                    stackOrdenado.Push(valores[0]);
+                    if (array[j] < array[i])
+                    {
+                        int temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
+                    }
                 }
             }
-            return stackOrdenado;
+            return array;
         }
     }
 }

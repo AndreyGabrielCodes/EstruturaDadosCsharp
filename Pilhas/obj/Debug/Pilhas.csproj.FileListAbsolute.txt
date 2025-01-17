@@ -5,3 +5,10 @@ C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.cs
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.csproj.CoreCompileInputs.cache
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.exe
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\bin\Debug\Pilhas.exe.config
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\bin\Debug\Pilhas.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\bin\Debug\Pilhas.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.csproj.AssemblyReference.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.csproj.CoreCompileInputs.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Pilhas\obj\Debug\Pilhas.pdb
