@@ -21,6 +21,12 @@ namespace Pilhas
             }
             Console.WriteLine("\nQ2 - Ordene valores em uma pilha\n- Input: {-2,11,9,0,7,-5,15,3,1,14,9,-1,6,12,1,4,8,0,-3,10,2,-5,12,14,-1,5,-4}");
             Console.WriteLine($"- Resposta: {Q2.ExibePilhaOrdenada(stackAleatorio)}");
+
+            //Q3
+            string expressaoBalanceada = "((5 + 7) - (2) * 4)";
+            string expressaoDesbalanceada = "(5 + 7 - (2 * 4)";
+            Console.WriteLine($"\nQ3 - Verifique se os parênteses estão balanceados em uma expressão\n- Inputs {expressaoBalanceada} e {expressaoDesbalanceada}");
+            Console.WriteLine($"- Resposta: {Q3.ValidacaoBalanceamento(expressaoBalanceada)} e {Q3.ValidacaoBalanceamento(expressaoDesbalanceada)}");
         }
     }
 }
