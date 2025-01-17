@@ -9,9 +9,11 @@ namespace Pilhas
 {
     internal class Q1
     {
+        //separa em uma stack de numeros e outra de operadores depois de finalizar realiza o calculo
         public static double SeparaCaracteres(string expressao)
         {
             Stack<int> numeros = new Stack<int>();
+            Stack<string> operadores = new Stack<string>();
             float resultado = 0;
             foreach (char i in expressao)
             {
@@ -32,6 +34,7 @@ namespace Pilhas
             return resultado;
         }
 
+        //retira os dois ultimos números e o ultimo operador
         private static float RealizaOperacao(Stack<int> stack, string operador)
         {
             float[] valores = new float[2];
