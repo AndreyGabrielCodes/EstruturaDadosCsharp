@@ -37,8 +37,7 @@ namespace Pilhas
             float[] valores = new float[2];
             for (int i = 0; i < 2; i++)
             {
-                valores[i] = stack.Peek();
-                stack.Pop();
+                valores[i] = stack.Pop();
             }
             float resultado = 0;
             switch (operador)
