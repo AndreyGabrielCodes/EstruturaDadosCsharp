@@ -14,11 +14,10 @@ namespace Pilhas
         private static int[] OrdenaPilha(Stack<int> stack)
         {
             int[] array = new int[stack.Count];
-            for (int i = 0; i < stack.Count-1; i++)
+            for (int i = 0; i < array.Length; i++)
             {
                 array[i] = stack.Pop();
             }
-
             int [] stackOrdenado = OrdenaArray(array);
             return stackOrdenado;
         }
