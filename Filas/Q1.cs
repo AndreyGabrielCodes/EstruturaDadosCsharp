@@ -9,8 +9,15 @@ namespace Pilha
 {
     public class Q1
     {
+        public static string Push(int[] valores, int incluirValor)
+        {
+            Queue<int> queue = ConverteArrayParaQueue(valores);
+            queue.Enqueue(incluirValor);
+            return "(" + string.Join(",", queue) + ")";
+        }
+
         //armazena e retira o valor atual até que não consiga retirar 
-          //o próximo e então retorna o ultimo valor armazenado
+        //o próximo e então retorna o ultimo valor armazenado
         public static int Peek(int[] valores)
         {
             Queue<int> queue = ConverteArrayParaQueue(valores);
@@ -32,11 +39,6 @@ namespace Pilha
             return valorAnterior;
         }
 
-        public static void Push(int[] valores)
-        {
-
-        }
-
         public static void Pop(int[] valores)
         {
 
@@ -51,6 +53,5 @@ namespace Pilha
             }
             return queue;
         }
-
     }
 }
