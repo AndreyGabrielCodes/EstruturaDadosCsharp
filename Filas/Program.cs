@@ -15,9 +15,7 @@ namespace Filas
             Console.WriteLine($"\nQ1 - Implemente uma pilha usando uma fila\n- Input: ({string.Join(", ", valores)})");
             Console.WriteLine($"- Peek(): {Pilha.Q1.Peek(valores)}");
             Console.WriteLine($"- Push(): {Pilha.Q1.Push(valores, 11)}");
-
-
-
+            Console.WriteLine($"- Pop(): {Pilha.Q1.Pop(valores)}");
         }
     }
 }

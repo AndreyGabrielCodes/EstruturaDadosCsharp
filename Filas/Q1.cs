@@ -23,12 +23,10 @@ namespace Pilha
             Queue<int> queue = ConverteArrayParaQueue(valores);
             int valorAnterior = 0;
             int tamanhoQueue = queue.Count;
-
             for (int i = 0; i < tamanhoQueue; i++)
             {
                 try
                 {
-                    queue.Peek();
                     valorAnterior = queue.Dequeue();
                 }
                 catch
@@ -39,9 +37,32 @@ namespace Pilha
             return valorAnterior;
         }
 
-        public static void Pop(int[] valores)
+        //armazena e retira o valor atual para uma nova queue
+         //apenas na iteração seguinte
+         //até que não consiga retirar o próximo
+         //e então retorna a queue sem o ultimo valor
+        public static string Pop(int[] valores)
         {
-
+            Queue<int> queue = ConverteArrayParaQueue(valores);
+            Queue<int> queueAlterada = new Queue<int>();
+            int tamanhoQueue = queue.Count;
+            int valorAnterior = 0;
+            for (int i = 0; i < tamanhoQueue; i++)
+            {
+                if (i > 0)
+                {
+                    queueAlterada.Enqueue(valorAnterior);
+                }
+                try
+                {
+                    valorAnterior = queue.Dequeue();
+                }
+                catch
+                {
+                    break;
+                }
+            }
+            return "(" + string.Join(",", queueAlterada) + ")";
         }
 
         private static Queue<int> ConverteArrayParaQueue(int[] array)
