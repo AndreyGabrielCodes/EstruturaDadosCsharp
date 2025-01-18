@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\filas\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5169679E-C416-4E41-AE50-9B6F53A66B9B}|Filas.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Q3.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\Q3.cs",
               "RelativeDocumentMoniker": "Q3.cs",
@@ -50,25 +50,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Q2.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\Q2.cs",
               "RelativeDocumentMoniker": "Q2.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\Q2.cs",
               "RelativeToolTip": "Q2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T20:38:40.516Z"
+              "WhenOpened": "2025-01-17T20:38:40.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Q1.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\Q1.cs",
               "RelativeDocumentMoniker": "Q1.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\Q1.cs",
               "RelativeToolTip": "Q1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T20:38:29.3Z",
               "EditorCaption": ""
@@ -81,7 +82,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Filas\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T20:38:10.135Z",
               "EditorCaption": ""
