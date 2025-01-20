@@ -1,0 +1,7 @@
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\bin\Debug\ListasVinculadas+.exe.config
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\bin\Debug\ListasVinculadas+.exe
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\bin\Debug\ListasVinculadas+.pdb
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\obj\Debug\ListasVinculadas+.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\obj\Debug\ListasVinculadas+.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\obj\Debug\ListasVinculadas+.exe
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\ListasVinculadas+\obj\Debug\ListasVinculadas+.pdb
