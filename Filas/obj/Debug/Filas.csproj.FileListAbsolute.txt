@@ -5,3 +5,10 @@ C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Filas\obj\Debug\Filas.cspr
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Filas\obj\Debug\Filas.exe
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Filas\obj\Debug\Filas.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\bin\Debug\Filas.exe.config
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\bin\Debug\Filas.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\bin\Debug\Filas.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\obj\Debug\Filas.csproj.AssemblyReference.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\obj\Debug\Filas.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Filas\obj\Debug\Filas.pdb

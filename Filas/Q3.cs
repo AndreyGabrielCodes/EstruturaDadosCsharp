@@ -25,28 +25,39 @@ namespace Filas
 
         private static void CalculaBinario(int[] nValores)
         {
+            Queue<int> numerosBinarios = new Queue<int>();
             Queue<int> temp = new Queue<int>();
             foreach (int valor in nValores)
             {
                 if (valor == 1)
                 {
-                    temp.Enqueue(valor);
+                    numerosBinarios.Enqueue(valor);
                 }
                 else
                 {
-                    int valorDividido = 0;
-                    while (valorDividido != 1)
+                    int contador = 0;
+                    int valorTemp = valor;
+                    while (valorTemp != 0)
                     {
-
-                        int resto = valor % 2;
-                        valorDividido = valor / 2;
+                        int resto = valorTemp % 2;
+                        valorTemp = valorTemp / 2;
                         temp.Enqueue(resto);
-                        Console.WriteLine(valorDividido);
-
+                        contador++;
                     }
-                    Console.WriteLine("resto");
+                    InverteResultadoCalculo(temp, contador);
                 }
             }
+        }
+
+        private static void InverteResultadoCalculo(Queue<int> temp, int contador)
+        {
+            for (int i = 1; i < contador; i++)
+            {
+                int valorAnterior = temp.Dequeue();
+                temp.Enqueue(valorAnterior);
+            }
+            Console.WriteLine(string.Join("", temp));
+            temp.Clear();
         }
     }
 }
