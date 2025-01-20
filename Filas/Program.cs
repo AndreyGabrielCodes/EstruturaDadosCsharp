@@ -29,9 +29,9 @@ namespace Filas
             Console.WriteLine($"- Resposta: {Q2.ExibeFilaAlterada(queue, kPrimeiros)}");
 
             //Q3
-            int numeroMaximo = 12;
+            int numeroMaximo = 10000000;
             Console.WriteLine($"\nQ3 - Gere números binários de 1 a n usando uma fila\n- Input: 1 a {numeroMaximo}");
-            Console.WriteLine($"- Resposta: {Q3.ExibeNumerosDecimaisGerados(numeroMaximo)}");
+            Console.WriteLine($"- Resposta: ({Q3.ExibeNumerosDecimaisGerados(numeroMaximo)})");
 
         }
     }

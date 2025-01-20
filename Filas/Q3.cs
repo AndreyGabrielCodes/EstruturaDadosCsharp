@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Filas
 {
@@ -7,57 +6,48 @@ namespace Filas
     {
         public static string ExibeNumerosDecimaisGerados(int numeroMaximo)
         {
-            int[] nValores = InicializaValores(numeroMaximo);
-            CalculaBinario(nValores);
-            string teste = "";
-            return teste;
+           // int[] nValores = InicializaValores(numeroMaximo);
+            string exibicaoBinarios = string.Join(",", CalculaBinario(numeroMaximo));
+            return exibicaoBinarios;
         }
 
-        private static int[] InicializaValores(int numeroMaximo)
+        //calcula o números binário e inverte (com pilha) apenas os valores pares
+        private static Queue<string> CalculaBinario(int numeroMaximo)
         {
-            int[] nValores = new int[numeroMaximo];
-            for (int i = 0, j = 1; i < numeroMaximo; i++, j++)
+            Queue<string> binariosCorretos = new Queue<string>();
+            for (int valor = 1; valor < numeroMaximo; valor++)
             {
-                nValores[i] = j;
-            }
-            return nValores;
-        }
-
-        private static void CalculaBinario(int[] nValores)
-        {
-            Queue<int> numerosBinarios = new Queue<int>();
-            Queue<int> temp = new Queue<int>();
-            foreach (int valor in nValores)
-            {
-                if (valor == 1)
+                Queue<int> binariosImpares = new Queue<int>();
+                Stack<int> binariosPares = new Stack<int>();
+                int valorDividido = valor;
+                while (valorDividido != 0)
                 {
-                    numerosBinarios.Enqueue(valor);
+                    int resto = valorDividido % 2;
+                    valorDividido = valorDividido / 2;
+                    if (valor % 2 == 0)
+                    {
+                        binariosPares.Push(resto);
+                    }
+                    else
+                    {
+                        binariosImpares.Enqueue(resto);
+                    }
+                }
+                if (valor % 2 == 0)
+                {
+                    string numeroBinario = "";
+                    foreach (int numero in binariosPares)
+                    {
+                        numeroBinario += numero;
+                    }
+                    binariosCorretos.Enqueue(numeroBinario);
                 }
                 else
                 {
-                    int contador = 0;
-                    int valorTemp = valor;
-                    while (valorTemp != 0)
-                    {
-                        int resto = valorTemp % 2;
-                        valorTemp = valorTemp / 2;
-                        temp.Enqueue(resto);
-                        contador++;
-                    }
-                    InverteResultadoCalculo(temp, contador);
+                    binariosCorretos.Enqueue(string.Join("", binariosImpares));
                 }
             }
-        }
-
-        private static void InverteResultadoCalculo(Queue<int> temp, int contador)
-        {
-            for (int i = 1; i < contador; i++)
-            {
-                int valorAnterior = temp.Dequeue();
-                temp.Enqueue(valorAnterior);
-            }
-            Console.WriteLine(string.Join("", temp));
-            temp.Clear();
+            return binariosCorretos;
         }
     }
 }
