@@ -27,6 +27,12 @@ namespace Filas
             }
             Console.WriteLine($"\nQ2 - Ordene inversamente os primeiros k elementos de uma fila\n- Input: ({string.Join(", ", valores)}) - {kPrimeiros} primeiros");
             Console.WriteLine($"- Resposta: {Q2.ExibeFilaAlterada(queue, kPrimeiros)}");
+
+            //Q3
+            int numeroMaximo = 12;
+            Console.WriteLine($"\nQ3 - Gere números binários de 1 a n usando uma fila\n- Input: 1 a {numeroMaximo}");
+            Console.WriteLine($"- Resposta: {Q3.ExibeNumerosDecimaisGerados(numeroMaximo)}");
+
         }
     }
 }
