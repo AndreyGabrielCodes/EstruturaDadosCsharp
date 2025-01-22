@@ -15,6 +15,22 @@ namespace Dicionarios
             Console.WriteLine($"Q1 - Encontre pares simétricos em um Array\n- Input: ({string.Join(",",arraySimetrico)})");
             Console.WriteLine($"- Resposta: {Q1.ExibeParesEncontrados(arraySimetrico)}");
 
+            //Q2
+            //Como a pergunta não especifica qual a jornada e não fala o que fazer com ela,
+            // será inicializado um dicionário com uma sequencia de passos não ordenados
+            // para pedir um Ifood e o objetivo será retorná-los na ordem correta
+            Dictionary<int, string> jornadaNaoOrdenadaPedirIfood = new Dictionary<int, string>
+            {
+                {6, "Confirmar pedido" },
+                {3, "Adicionar comida ao carrinho" },
+                {1, "Abrir aplicativo do Ifood" },
+                {5, "Escolher método de pagamento" },
+                {2, "Pesquisar restaurante" },
+                {4, "Ir para o carrinho" }
+            };
+            Console.WriteLine($"\nQ2 - Trace o caminho completo de uma jornada\n- Input: ({string.Join(",", jornadaNaoOrdenadaPedirIfood)})");
+            Console.WriteLine($"- Resposta: ({string.Join(",", Q2.OrdenaJornada(jornadaNaoOrdenadaPedirIfood))})");
+
         }
     }
 }
