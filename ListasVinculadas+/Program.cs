@@ -24,10 +24,11 @@ namespace ListasVinculadas
             Console.WriteLine($"- Resposta: {Q3.RetornaValorEnesimoNo(numeros, enesimoNo)}");
 
             //Q4
-            int[] numerosDuplicados = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 4, 15, 16, 17, 18, 6, 10 };
+            int[] array2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 4, 15, 16, 17, 18, 6, 10 };
+            LinkedList<int> numerosDuplicados = new LinkedList<int>(array2);
             Console.WriteLine($"\nQ4 - Remova elementos duplicados de uma lista vinculada");
             Console.WriteLine($"- Input: ({string.Join(",", numerosDuplicados)})");
-            Console.WriteLine($"- Resposta: {string.Join(",",Q4.RemoveDuplicados(numeros))}");
+            Console.WriteLine($"- Resposta: ({string.Join(",",Q4.RemoveDuplicados(numerosDuplicados))})");
         }
     }
 }
