@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Dicionarios\\",
+  "WorkspaceRootPath": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Dicionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C4EE5E8-A006-4581-9044-C9759ABA7421}|Dicionarios.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\dicionarios\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C4EE5E8-A006-4581-9044-C9759ABA7421}|Dicionarios.csproj|c:\\andrey\\desenvolvimento\\estruturadadoscsharp\\dicionarios\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C4EE5E8-A006-4581-9044-C9759ABA7421}|Dicionarios.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C4EE5E8-A006-4581-9044-C9759ABA7421}|Dicionarios.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\dicionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C4EE5E8-A006-4581-9044-C9759ABA7421}|Dicionarios.csproj|C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Dicionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C4EE5E8-A006-4581-9044-C9759ABA7421}|Dicionarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Q1.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Dicionarios\\Q1.cs",
+              "DocumentMoniker": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Dicionarios\\Q1.cs",
               "RelativeDocumentMoniker": "Q1.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Dicionarios\\Q1.cs*",
-              "RelativeToolTip": "Q1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Dicionarios\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T09:37:26.877Z",
               "EditorCaption": ""
@@ -45,14 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Dicionarios\\Program.cs",
+              "DocumentMoniker": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Dicionarios\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Dicionarios\\Program.cs",
+              "ToolTip": "C:\\ANDREY\\Desenvolvimento\\EstruturaDadosCsharp\\Dicionarios\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:34:38.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T09:34:38.554Z"
             }
           ]
         }

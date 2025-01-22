@@ -5,3 +5,10 @@ C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dici
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.csproj.CoreCompileInputs.cache
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.exe
 C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\bin\Debug\Dicionarios.exe.config
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\bin\Debug\Dicionarios.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\bin\Debug\Dicionarios.pdb
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.csproj.AssemblyReference.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.csproj.CoreCompileInputs.cache
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.exe
+C:\ANDREY\Desenvolvimento\EstruturaDadosCsharp\Dicionarios\obj\Debug\Dicionarios.pdb
