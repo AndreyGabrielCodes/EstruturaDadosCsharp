@@ -33,8 +33,15 @@ namespace Dicionarios
             int[] subconjunto1 = { 10, 11, 12 };
             int[] subconjunto2 = { 4, 5, 6 };
             int[] subconjunto3 = { 2, 10 };
-            Console.WriteLine($"\nQ3 - Descubra se um Array é um subconjunto de outro Array\n- Input: ({string.Join(",", arrayPrincipal)}) e ({string.Join(",", subconjunto1)}) e ({string.Join(",", subconjunto2)}) e ({string.Join(",", subconjunto3)}) ");
+            Console.WriteLine($"\nQ3 - Descubra se um Array é um subconjunto de outro Array");
+            Console.WriteLine($"- Input: ({string.Join(",", arrayPrincipal)}) e ({string.Join(",", subconjunto1)}) e ({string.Join(",", subconjunto2)}) e ({string.Join(",", subconjunto3)}) ");
             Console.WriteLine($"- Resposta: {Q3.ArraySubconjunto(arrayPrincipal, subconjunto1)} e {Q3.ArraySubconjunto(arrayPrincipal, subconjunto2)} e {Q3.ArraySubconjunto(arrayPrincipal, subconjunto3)}");
+
+            //Q4
+            //São usados os mesmos arrays do exercício anterior para poupar código
+            Console.WriteLine($"\nQ4 - Verifique se determinados Arrays são disjuntos (não possuem elementos em comum)");
+            Console.WriteLine($"- Input: ({string.Join(",", subconjunto1)}) e ({string.Join(",", subconjunto2)}) | ({string.Join(",", subconjunto1)}) e ({string.Join(",", subconjunto3)}) ");
+            Console.WriteLine($"- Resposta: {Q4.ArraysDisjuntos(subconjunto1, subconjunto2)} e {Q4.ArraysDisjuntos(subconjunto1, subconjunto3)}");
         }
     }
 }
