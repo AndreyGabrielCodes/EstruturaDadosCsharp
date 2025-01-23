@@ -32,9 +32,9 @@ namespace Dicionarios
             int[] arrayPrincipal = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10};
             int[] subconjunto1 = { 10, 11, 12 };
             int[] subconjunto2 = { 4, 5, 6 };
-            int[] subconjunto3 = { 2, 9 };
+            int[] subconjunto3 = { 2, 10 };
             Console.WriteLine($"\nQ3 - Descubra se um Array é um subconjunto de outro Array\n- Input: ({string.Join(",", arrayPrincipal)}) e ({string.Join(",", subconjunto1)}) e ({string.Join(",", subconjunto2)}) e ({string.Join(",", subconjunto3)}) ");
-            Console.WriteLine($"- Resposta: {Q3.ArraySubconjunto(arrayPrincipal, subconjunto1)}");
+            Console.WriteLine($"- Resposta: {Q3.ArraySubconjunto(arrayPrincipal, subconjunto1)} e {Q3.ArraySubconjunto(arrayPrincipal, subconjunto2)} e {Q3.ArraySubconjunto(arrayPrincipal, subconjunto3)}");
         }
     }
 }

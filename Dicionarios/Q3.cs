@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Dicionarios
 {
@@ -11,14 +7,27 @@ namespace Dicionarios
         public static bool ArraySubconjunto(int[] arrayPrincipal, int[] subconjunto)
         {
             Dictionary<int, int> contagemArrayPrincipal = ContaIncidenciaValor(arrayPrincipal);
-            
-            foreach (KeyValuePair<int,int> item in contagemArrayPrincipal)
+            int valoresContidosNoArray = 0;
+            int totalValoresSubconjunto = subconjunto.Length;
+            foreach (int item in subconjunto)
             {
-
+                foreach (KeyValuePair<int, int> itemContagem in contagemArrayPrincipal)
+                {
+                    if (item == itemContagem.Key && itemContagem.Value > 0)
+                    {
+                        valoresContidosNoArray++;
+                        break;
+                    }
+                }
             }
-
-            
-            return false;
+            if (valoresContidosNoArray != totalValoresSubconjunto)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
 
         private static Dictionary<int, int> ContaIncidenciaValor(int[] array)
