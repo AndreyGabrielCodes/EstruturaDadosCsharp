@@ -21,12 +21,13 @@ namespace Dicionarios
             // para pedir um Ifood e o objetivo será retorná-los na ordem correta
             Dictionary<int, string> jornadaNaoOrdenadaPedirIfood = new Dictionary<int, string>
             {
+                {4, "Ir para o carrinho" },
                 {6, "Confirmar pedido" },
                 {3, "Adicionar comida ao carrinho" },
                 {1, "Abrir aplicativo do Ifood" },
                 {5, "Escolher método de pagamento" },
-                {2, "Pesquisar restaurante" },
-                {4, "Ir para o carrinho" }
+                {2, "Pesquisar restaurante" }
+                
             };
             Console.WriteLine($"\nQ2 - Trace o caminho completo de uma jornada\n- Input: ({string.Join(",", jornadaNaoOrdenadaPedirIfood)})");
             Console.WriteLine($"- Resposta: ({string.Join(",", Q2.OrdenaJornada(jornadaNaoOrdenadaPedirIfood))})");
