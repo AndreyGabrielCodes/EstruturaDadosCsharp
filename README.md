@@ -23,7 +23,7 @@ As perguntas são chamadas de "Q" dentro de cada tipo de estrutura
     - Q2 - Detecte um loop (laço) em uma lista vinculada
     - Q3 - Retorne o enésimo nó partindo do final de uma lista vinculada
     - Q4 - Remova elementos duplicados de uma lista vinculada
-- Dicionários ou Hash Tables
+- Dicionários
     - Q1 - Encontre pares simétricos em um Array
     - Q2 - Trace o caminho completo de uma jornada
     - Q3 - Descubra se um Array é um subconjunto de outro Array
