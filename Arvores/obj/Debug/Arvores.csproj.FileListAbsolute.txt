@@ -1,0 +1,7 @@
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\bin\Debug\Arvores.exe.config
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\bin\Debug\Arvores.exe
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\bin\Debug\Arvores.pdb
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\obj\Debug\Arvores.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\obj\Debug\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\obj\Debug\Arvores.exe
+C:\Users\Andrey\Desktop\Projetos\EstruturaDadosCsharp\Arvores\obj\Debug\Arvores.pdb
