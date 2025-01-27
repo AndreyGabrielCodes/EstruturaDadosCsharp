@@ -12,13 +12,11 @@ namespace Arvores
         private static List<int> valoresArvore = new List<int>();
         private static Action<int> adicionaValorNo = x => AdicionaElemento(x); 
 
-
         public static int KEsimoMaior(int k, BinaryTree<int> arvore)
         {
             arvore.InOrderTraversal(adicionaValorNo);
             return valoresArvore.Max();
         }
-
 
         private static void AdicionaElemento(int valor)
         {
