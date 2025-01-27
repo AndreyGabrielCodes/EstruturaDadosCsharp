@@ -17,9 +17,12 @@ namespace Arvores
             arvore.Insert(5);
             arvore.Insert(2);
             arvore.Insert(10);
-            Action<int> printTeste = value => Console.WriteLine(value);
-            arvore.InOrderTraversal(printTeste);
-        }
 
+            //Q1
+            Console.WriteLine("Q1 - Encontre a altura de uma árvore binária");
+            Console.WriteLine($"- Resposta: ");
+            Q1.Altura(arvore.Root);
+
+        }
     }
 }

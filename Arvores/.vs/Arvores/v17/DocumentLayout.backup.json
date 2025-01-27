@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arvores\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arvores\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|solutionrelative:binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|c:\\users\\andrey\\desktop\\projetos\\estruturadadoscsharp\\arvores\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA5D66D-FF2A-4B04-9F3C-EEC7A2A9E1E5}|Arvores.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BinaryTree.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\BinaryTree.cs",
-              "RelativeDocumentMoniker": "BinaryTree.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\BinaryTree.cs",
-              "RelativeToolTip": "BinaryTree.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T20:08:12.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TreeNode.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\TreeNode.cs",
-              "RelativeDocumentMoniker": "TreeNode.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\TreeNode.cs",
-              "RelativeToolTip": "TreeNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T20:07:34.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\Q1.cs",
+              "RelativeDocumentMoniker": "Q1.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:25:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\EstruturaDadosCsharp\\Arvores\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:30:04.204Z",
               "EditorCaption": ""
