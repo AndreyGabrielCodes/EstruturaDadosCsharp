@@ -21,6 +21,11 @@ namespace Arvores
             //Q1
             Console.WriteLine("Q1 - Encontre a altura de uma árvore binária");
             Console.WriteLine($"- Resposta: {Q1.Altura(arvore.Root)}");
+
+            //Q2
+            int kEsimo = 3;
+            Console.WriteLine($"Q2 - Encontre o k-ésimo valor máximo em uma árvore binária de busca\n- Input: {kEsimo}");
+            Console.WriteLine($"- Resposta: {Q2.KEsimoMaior(kEsimo, arvore)}");
             
         }
     }
