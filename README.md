@@ -1,4 +1,6 @@
 # EstruturaDadosCsharp
+CONCLUIDO !
+
 Para treinar a algoritmos com os principais tipos de estruturas de dados existentes, forma coletadas diversas perguntas comuns de entrevistas de emprego e o objetivo é tentar respondê-las.
 
 A organização ficou da seguinte maneira, o repositório contém várias pastas onde cada uma é uma estrutura, dentro de cada projeto existe uma classe para cada pergunta.
