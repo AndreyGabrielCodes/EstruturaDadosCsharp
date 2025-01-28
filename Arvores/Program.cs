@@ -19,19 +19,24 @@ namespace Arvores
             arvore.Insert(2);
 
             //Q1
-            Console.WriteLine("Q1 - Encontre a altura de uma árvore binária");
+            Console.WriteLine("\nQ1 - Encontre a altura de uma árvore binária");
             Console.WriteLine($"- Resposta: {Q1.Altura(arvore.Root)}");
 
             //Q2
             int kEsimo = 3;
-            Console.WriteLine($"Q2 - Encontre o k-ésimo valor máximo em uma árvore binária de busca\n- Input: {kEsimo}");
+            Console.WriteLine($"\nQ2 - Encontre o k-ésimo valor máximo em uma árvore binária de busca\n- Input: {kEsimo}");
             Console.WriteLine($"- Resposta: {Q2.KEsimoMaior(kEsimo, arvore)}");
             
             //Q3
             int distanciaK = 3;
-            Console.WriteLine($"Q3 - Encontre nós a uma distância \"k\" da raiz\n- Input: {distanciaK}");
-            //Console.WriteLine($"- Resposta: ");
-            Q3.kEsimosNos(arvore, distanciaK);
+            Console.WriteLine($"\nQ3 - Encontre nós a uma distância \"k\" da raiz\n- Input: {distanciaK}");
+            Console.WriteLine($"- Resposta: {Q3.kEsimosNos(arvore, distanciaK)}");
+
+            //Q4
+            int kNo = 7;
+            Console.WriteLine($"\nQ4 - Encontre ancestrais de um determinado nó em uma árvore binária\n- Input: {kNo}");
+            Console.WriteLine($"- Resposta: {Q4.Ancestrais(arvore,kNo)}");
+
         }
     }
 }

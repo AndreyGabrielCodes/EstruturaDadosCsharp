@@ -10,16 +10,17 @@ namespace Arvores
     {
         private static List<int> valoresNivel = new List<int>();
 
-        public static void kEsimosNos(BinaryTree<int> arvore, int distanciaK)
+        public static string kEsimosNos(BinaryTree<int> arvore, int distanciaK)
         {
             if (distanciaK > Q1.Altura(arvore.Root))
             {
-                Console.WriteLine("DistanciaK maior que nível da arvore!");
+                return "DistanciaK maior que nível da arvore!";
             }
             else
             {
                 Altura(arvore.Root, distanciaK);
-                Console.WriteLine("(" + string.Join(",", valoresNivel) + ")");
+                return "(" + string.Join(",", valoresNivel) + ")";
+                
             }
         }
 
